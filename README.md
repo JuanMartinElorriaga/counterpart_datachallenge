@@ -1,4 +1,4 @@
-## Profiling report and KNN Imputation for status and value features
+## Profiling report and KNN Imputation for company's risk status and IPO status
 
 ## Challenge
 
