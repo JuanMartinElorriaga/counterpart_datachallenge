@@ -101,8 +101,10 @@ K-nearest neighbors (KNN) algorithm uses _‘feature similarity’_ to predict t
 ## Project Structure
 
 
-├── data       <- The original data (training and testing csv's)
+├── data       <- The original data (training and testing csv's) 
+
 ├── scripts    <- The python code (notebook.ipynb)
+
 ├── processed  <- Files exported as final results
 
 │   ├── Profiling_report.html <- Statistical analysis in html style
