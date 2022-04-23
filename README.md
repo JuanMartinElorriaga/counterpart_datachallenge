@@ -2,18 +2,8 @@
 
 ## Counterpart Data Challenge
 
-_Please evaluate the data sets provided in python and provide a brief report (ideally with imagery) outlining statistics of note within the provided data. Your goal is to use the training set (training.csv) to fill in the missing data in the testing set (testing.csv). Try to cap the time spent on the actual problem around 60 minutes._
-
-### Objectives
-
-- Evaluate your capabilities and comfort level in managing abstract data in Python
-- Assess your analytical abilities when it come to somewhat vague and undirected data related problems
-- Showcase your ability to tell a story with data
-- Collaborate with the team on a fun little problem
-
-### Suggestions
-
-The correctness of the submission is not of primary importance. Rather, we are looking for a small representative code sample of your experience and comfort in python, as well as an understanding of how you approach challenges of this nature when only partially directed.
+Brief report outlining statistics of note within the company's. 
+The _training.csv_ set is used to fill in the missing data in the _testing.csv_.
 
 ### Dataset
 #### Training dataset
